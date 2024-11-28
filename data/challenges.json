@@ -1,16 +1,16 @@
 [
     {
-        "title":"Spatte Folks",
-        "image": "https://github.com/mohitkhyalia/assets_img/blob/main/IMG_1343.jpeg?raw=true",
-        "review": "okay you have to do it",
+        "title":"Pull-ups Energy",
+        "image": "https://github.com/mohitkhyalia/assets_img/blob/main/data/challenges_img/IMG_1377.jpeg?raw=true",
+        "review": "Start with 5-10 Normal Pull-Ups.If unable to do pull-ups use band or try hanging for min 15 sec to max (This covers both Newbies + Fitness folks.Gym rats add weight or 12-17 rep count",
         "name": "challenge 1",
-        "status": "newbie"
+        "status": "For Newbie + Fitness + Gym rat"
     },
     {
         "title":"Burpees Folks",
         "image": "https://github.com/mohitkhyalia/assets_img/blob/main/IMG_1343.jpeg?raw=true",
-        "review": "okay you have to do it",
+        "review": "okay you have to Burpees on this/any brick 20 reps 4 sets.Have 30-60 sec rest b/t sets and at the end hit your 3lr water goal.SHeeeerrr ",
         "name": "challenge 2",
-        "status": "newbie"
+        "status": "For Newbie + Fitness"
     }
 ]
