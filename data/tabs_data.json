@@ -1,12 +1,12 @@
 [
-    {"title":"Stories",
-      "description1":"Jai baba ki ladle",
-      "description2":"haa haa haaan",
-      "buttonText":"maalhh",
-        "btnlink":"https://www.google.com"
+    {"title":"Pistol Squat",
+      "description1":"Complete guid for pistol squat,click below button to read full blog",
+      "buttonText":"Here",
+        "btnlink":"https://mohitkhyalia.blogspot.com/2025/02/pistol-squat-progression-step-by-step.html"
     },
-    {"title":"Stories123",
-      "description1":"Jai baba ki ladle",
-      "description2":"haa haa haaan"
+    {"title":"Blog",
+      "description1":"Checkout my blogs ",
+        "buttonText":"Here",
+        "btnlink":"https://mohitkhyalia.blogspot.com/"
     }
 ]
